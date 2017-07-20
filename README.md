@@ -1,2 +1,4 @@
-# muzeet.github.io
-my home page
+# 个人首页
+
+博客
+我现在主要更新的是托管在github上的Pelican博客，主要记录自己在学习过程中的心得体会。
